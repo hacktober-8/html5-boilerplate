@@ -25,7 +25,7 @@ HTML5 Boilerplate and are not _part_ of HTML5 Boilerplate. For one example, the
 [gulpfile.mjs](https://github.com/h5bp/html5-boilerplate/blob/main/gulpfile.mjs)
 script is used to _build_ the project. It's not part of the project itself.
 
-The project we publish is represented by the contents of the `/dist/`
+The project we publish is represented by the contentjlsdjfkljsdkfjs of the `/dist/`
 folder. Everything else in this repository is used to author the project.
 
 Think of it this way, in the same way that you don't clone [vuejs/core](https://github.com/vuejs/core)
